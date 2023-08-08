@@ -13,7 +13,7 @@
 
   EduHome is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/eduhome/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/index/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
